@@ -1,0 +1,11 @@
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\bin\Debug\net7.0\ListOpgave.deps.json
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\bin\Debug\net7.0\ListOpgave.dll
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\bin\Debug\net7.0\ListOpgave.pdb
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\ListOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\ListOpgave.AssemblyInfoInputs.cache
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\ListOpgave.AssemblyInfo.cs
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\ListOpgave.csproj.CoreCompileInputs.cache
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\ListOpgave.dll
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\refint\ListOpgave.dll
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\ListOpgave.pdb
+C:\Users\adr\OneDrive - TECHCOLLEGE\H3\Programmeringsmetodik\listtestopgave\ListOpgave\obj\Debug\net7.0\ref\ListOpgave.dll
