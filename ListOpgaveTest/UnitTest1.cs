@@ -35,7 +35,7 @@ public class UnitTest1
         Mylist.AddFirst(1);
         Mylist.RemoveFirst();
 
-        Assert.True(Mylist.First != null);
+        Assert.True(Mylist.First == null);
     }
     [Fact]
     public void PrintTest(){
@@ -44,7 +44,7 @@ public class UnitTest1
         Mylist.AddFirst(1);
         printed = Mylist.First.Data;
         Console.WriteLine(printed);
-        Assert.True(printed == Mylist.First.Data);
+        Assert.Equal("1 ",Mylist.Print(1));
 
     }
 
@@ -61,18 +61,18 @@ public class UnitTest1
         Mylist.AddFirst(1);
         Mylist.AddFirst(3);
         Mylist.AddFirst(2);
-        Assert.True(Mylist.GetSomething(1).Data == 3);
-
+        Assert.True(Mylist.GetSomething(3).Data == 3);
     }
 
     [Fact]
     public void sortTest(){
         LinkedList Mylist = new();
-        Mylist.AddFirst(1);
+        Mylist.AddFirst(4);
         Mylist.AddFirst(3);
-        Mylist.AddFirst(2);
+         Mylist.AddFirst(9);
+        Mylist.AddFirst(1);       
         Mylist.Sort();
 
-        Assert.True(Mylist.GetFirst() == null);        
+        Assert.Equal(1, Mylist.GetFirst().Data);        
     }
 }
